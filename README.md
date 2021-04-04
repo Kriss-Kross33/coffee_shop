@@ -7,3 +7,4 @@ A coffee shop ui built with flutter.
   <img alt="Screenshot 2021-04-04 at 9 01 37 AM" src="https://user-images.githubusercontent.com/44390350/113508088-95944d00-953d-11eb-9e42-cdedb04dc05d.png" width="300" />
 </p>
 
+Design inspiration: https://dribbble.com/shots/7969387-Coffee-To-Go-app-design/attachments/520952?mode=media
